@@ -1,6 +1,8 @@
 # Loan Eligibility Assessment System
 
 A production-ready AI-powered loan eligibility assessment platform featuring ML ensemble models, quantum-inspired optimization, real-time bank rate integration, and transparent explainability.
+LIVE DEMO
+https://ai-loan-eligibility-sc8f.bolt.host
 
 ## Features
 
